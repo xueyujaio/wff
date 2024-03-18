@@ -1,0 +1,6 @@
+minio:
+  access-key: xueyujiao
+  secret-key: Xue233201!
+  bucket: leadnews
+  endpoint: http://localhost:9000
+  read-path: http://localhost:9000
