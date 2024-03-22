@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.elasticsearch.client:elasticsearch-rest-client:6.8.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../app/maven/heimamaven/respository_new/org/elasticsearch/client/elasticsearch-rest-client/6.8.23/elasticsearch-rest-client-6.8.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../app/maven/heimamaven/respository_new/org/elasticsearch/client/elasticsearch-rest-client/6.8.23/elasticsearch-rest-client-6.8.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../app/maven/heimamaven/respository_new/org/elasticsearch/client/elasticsearch-rest-client/6.8.23/elasticsearch-rest-client-6.8.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
